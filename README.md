@@ -51,8 +51,4 @@ To set up the system locally, follow these instructions:
     - MySQL connector libraries for Python
     - JavaScript libraries for frontend (e.g., React, Angular)
 
-### Installation Steps
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/project-repo.git
